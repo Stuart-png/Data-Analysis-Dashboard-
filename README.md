@@ -18,6 +18,6 @@ The Chic-Verve Store wants to create an annual sales report for 2022. So that, t
 - Percentage of Total Orders delivered
 
 ## Dashboard Link: 
-<a href=
+<a href= https://github.com/Stuart-png/Data-Analysis-Dashboar-/blob/main/Screenshot%202025-07-15%20163004.png>Dashboard</a>
 
 
