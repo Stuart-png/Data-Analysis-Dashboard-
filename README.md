@@ -1,3 +1,8 @@
+## DashBoard
+
+<img width="1506" height="704" alt="DashBoard" src="https://github.com/user-attachments/assets/2c7a40c2-42a0-46c9-9311-4538b8e440bb" />
+
+
 # Chic-Verve-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
 The Chic-Verve Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
@@ -36,8 +41,6 @@ The Chic-Verve Store wants to create an annual sales report for 2022. So that, t
 ## Final Conclusion:
 To improve the sales of Chic-Verve Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
 
-## DashBoard
 
-<img width="1506" height="704" alt="DashBoard" src="https://github.com/user-attachments/assets/2c7a40c2-42a0-46c9-9311-4538b8e440bb" />
 
 
